@@ -1,2 +1,2 @@
-# shawnfoster
-Portfolio
+# algorithmsandideas
+Homepage for Algorithms &amp; Ideas! A New Repository
